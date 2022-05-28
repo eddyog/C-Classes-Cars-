@@ -63,7 +63,6 @@ class Triangle{
 
 void Triangle::prompt(){
 
-    cout <<"Debugging ";
     string name = "";
     float side [3];
 

@@ -83,7 +83,7 @@ void Square::calculateArea(){
 }
 
 void Square::calculatePerimeter(){
-    float perimeter = getSide() * 4;
+    float perimeter = getSide() * 2;
     setPerimeter(perimeter);
 }
 

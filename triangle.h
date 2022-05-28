@@ -118,5 +118,4 @@ void Triangle::process(){
 
 }
 
-
 #endif

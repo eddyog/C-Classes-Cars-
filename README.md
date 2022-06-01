@@ -25,7 +25,7 @@ Tools
 * Visual Studio Code Version: 1.54.3 (Universal).
 * Python Extension: Python 2.7.16.
 
-All Rights reseverd
+All Rights reserved
 
 ## Eddy Gonzalez
 

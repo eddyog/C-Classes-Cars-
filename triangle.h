@@ -105,7 +105,7 @@ void Triangle::display(){
     cout << fixed;
     cout << setprecision(2);
     cout << "\nThe perimeter of "<< getName() << " is "<< getPerimeter() << ". ";
-    cout << "\nThe Area of the " << getName() << " is "<< getArea() << ". \n";
+    cout << "\nThe Area of " << getName() << " is "<< getArea() << ". \n";
 }
 
 void Triangle::process(){

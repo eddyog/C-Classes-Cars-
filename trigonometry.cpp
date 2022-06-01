@@ -30,7 +30,7 @@ int main () {
         case 1:
             //will call the method from the square class that will perform the proompt, process and display
             mySquare.process();
-            cout << "Do you want to continue? Yes = 1 / No = 0 = ";
+            cout << "Do you want to continue? Yes = 1 / No = 0 \nMy optioon = ";
             cin >> again;
             if (again == 1){ 
                 break;
@@ -41,7 +41,7 @@ int main () {
         case 2:
     
             myTriangle.process();
-            cout << "Do you want to continue? Yes = 1 / No = 0 = ";
+            cout << "Do you want to continue? Yes = 1 / No = 0 \nMy optioon = ";
             cin >> again;
             if (again == 1){ 
                 break;
@@ -53,7 +53,7 @@ int main () {
         case 3:
 
             myRectangle.process();
-            cout << "Do you want to continue? Yes = 1 / No = 0 = ";
+            cout << "Do you want to continue? Yes = 1 / No = 0 \nMy optioon = ";
             cin >> again;
             if (again == 1){ 
                 break;

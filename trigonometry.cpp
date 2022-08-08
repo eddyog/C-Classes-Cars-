@@ -19,7 +19,7 @@ int main () {
     
     do{
         cout << "Welcome to the Geometry tool " ;
-        cout << "\nSelect Area and perimeter that you want to calculate \n1) Square \n2) Triangle \n3) Rectangle \nMy option = " ;
+        cout << "\nSelect Area and perimeter \nThat you want to calculate \n1) Square \n2) Triangle \n3) Rectangle \nMy option = " ;
         cin>> option;
 
         cin.clear();
